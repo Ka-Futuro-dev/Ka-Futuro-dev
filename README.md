@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou Kalebe do Nascimento
 
-<!--
-**Ka-Futuro-dev/Ka-Futuro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Aprendendo desenvolvimento Front-End  
+🚀 Buscando evoluir na programação e criar projetos melhores
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias que estou estudando
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Java
+- Python
+
+---
+
+## 📌 Atualmente
+
+- Estudando Engenharia de Software
+- Praticando projetos no GitHub
+- Aprendendo mais sobre desenvolvimento web
